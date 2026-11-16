@@ -7,5 +7,5 @@ func test(text string) {
 }
 
 func main() {
-	test("Hello World")
+	test("Hello, World!")
 }
